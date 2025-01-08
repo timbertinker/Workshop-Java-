@@ -6,7 +6,8 @@ before and at the event, for links and late-breaking news.
 Setup Java, Eclipse and Git by following the instructions at: http://myco.ws/LJC_setup_v03.pdf
 
 Get the latest Demo, Exercise and Solution projects from:
- git clone https://github.com/LondonJavaCommunity/JavaWorkshop.git 
+ git clone https://github.com/LondonJavaCommunity/Workshop-Java-
+.git 
 
 Import these projects into Eclipse (or similar) using File> Import> Existing projects into workspace. Projects are named as follows:
 Demos for each chapter:
